@@ -1,6 +1,5 @@
 import sys
 import hashlib
-import codecs
 from Crypto.Cipher import AES
 
 PWD = "b3f6c3r6vctb9c3n789um83zn8c3tb7c3brc3b5c77327tbrv6b123rv6c3rb6c7tc3n7tb6tb6c3t6b35nt723472357t1423tb231br6c3v4"
